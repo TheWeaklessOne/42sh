@@ -7,7 +7,7 @@ With the 42sh project, we will go even further by adding functionailities such a
 ## Installation
 1. Download/Clone this repo
 ```
-git clone https://github.com/pankratdodo/42sh.git
+git clone https://github.com/TheWeaklessOne/42sh.git
 ```
 2. Run
 ```
